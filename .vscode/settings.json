@@ -6,7 +6,14 @@
     "editor.insertSpaces": true,
     "editor.detectIndentation": false
   },
-  "[jsonc]": {
+  "[json]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+  },
+  "[jspnc]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.tabSize": 2,
